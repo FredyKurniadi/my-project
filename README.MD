@@ -27,10 +27,13 @@ Berikut adalah sesuatu yang saya pelajari:
 - Belajar Tkinter
 - Belajar Chart js
 
-Berikut adalah Lesson lern:
+Berikut adalah Lesson learn:
 <!-- - **Lesson learns** -->
 - Belajar meminimalisir library yang digunakan
 - **Lesson learns**
+
+Berikut link bahan belajar:
+- [Flask](https://www.youtube.com/watch?v=mqhxxeeTbu0&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
 
 ## Table of Contents
 
